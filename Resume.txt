@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>Resume</title>
+<link rel="icon" href="https://icon-library.com/images/resume-icon/resume-icon-16.jpg">
+</head>
+<body background="https://images.ctfassets.net/pdf29us7flmy/3WyIJe69O5yOumjv5Gv01I/f63e9b05be4763bce6561f7555bdbbcf/B7023-How-to-Build-my-Resume-Social.png">
+<center style="color:antiquewhite;"><h1 style="background-color: rgb(109, 100, 98);">RESUME</h1>
+    <h2>K.RAVITEJA</h2>
+    
+<pre>
+<h1 style="background-color: rgb(109, 100, 98);">EDUCATION</h1>
+1.Vaagdevi College Of Engineering(B.Tech)
+2020-2024
+2.Gowtham Junior College(Intermediate)
+2018-2020
+3.TS Model School (SSC)
+2018
+</pre>
+
+<h2 style="background-color: rgb(109, 100, 98);">SKILLS</h2>
+<pre>
+1)HTML
+2)CSS
+3)Python
+4)Java
+</pre>
+<h2 style="background-color: rgb(109, 100, 98);">PROJECTS</h2>
+<pre>
+1.Weather report detection
+2.Image forgery detection
+3.Food Ordering System
+</pre>
+
+<h2 style="background-color: rgb(109, 100, 98);"> DECLARATION</h2>
+Here by I'm Raviteja and the above information is true
+<pre>Name:Raviteja
+Date: 10-02-2024</pre></center>
+
+
+</body>
+</html>
